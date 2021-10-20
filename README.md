@@ -2,8 +2,9 @@
 
 
 
-## Ola! Bem vindo ao meu livro de receitas :happy:
+## Ola! Bem vindo ao meu livro de receitas :plate_with_cutlery:
 
 - Strogonoff de frango
 
 - Caribinho
+
